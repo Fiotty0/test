@@ -1,1 +1,3 @@
-# test
+# Simple subdomain takeover
+
+Simple subdomain takeover
